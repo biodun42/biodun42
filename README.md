@@ -4,14 +4,13 @@
 
 ## 🌱 My Journey
 
-My journey in web development began with a fascination for how websites worked and looked. This curiosity quickly turned into a passion, and I dove headfirst into the world of frontend development. Over the years, I've honed my skills in **HTML**, **CSS**, and **JavaScript**, along with various frontend frameworks and libraries like **React** and **Vue.js**.
+My journey in web development began with a fascination for how websites worked and looked. This curiosity quickly turned into a passion, and I dove headfirst into the world of frontend development. Over the years, I've honed my skills in **HTML**, **CSS**, and **JavaScript**.
 
 ## 💡 What I Do
 
 - **Responsive Design:** Ensuring that websites look and function great on all devices.
 - **Performance Optimization:** Writing clean, efficient code to improve website speed and performance.
 - **User Experience:** Creating intuitive and engaging user interfaces that enhance the user experience.
-- **Collaboration:** Working closely with designers and backend developers to bring projects to life.
 
 ## 🎨 My Philosophy
 
