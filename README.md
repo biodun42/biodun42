@@ -1,4 +1,4 @@
-## Hi there 👋
+# About Me
 
 🌟 Hi there! I'm **Biodun**, a passionate frontend developer dedicated to creating beautiful and functional user interfaces. With a keen eye for design and a commitment to excellence, I strive to bring digital experiences to life through clean, efficient, and user-friendly code.
 
@@ -21,7 +21,7 @@ I believe in the power of the web to connect people and share knowledge. Every p
 
 Feel free to reach out if you want to discuss a project, share ideas, or just chat about frontend development. I'm always open to new opportunities and collaborations.
 
-You can find me on [GitHub](https://github.com/yourusername) or [LinkedIn](https://linkedin.com/in/yourusername).
+You can find me on [GitHub](https://github.com/yourusername), or [Twitter](https://twitter.com/Muhammed67875743).
 
 ---
 
