@@ -6,12 +6,18 @@
 
 My journey in web development began with a fascination for how websites worked and looked. This curiosity quickly turned into a passion, and I dove headfirst into the world of frontend development. Over the years, I've honed my skills in **HTML**, **CSS**, and **JavaScript**.
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biodun42&show_icons=true&theme=radical)
+
+
 ## 💡 What I Do
 
 - **Responsive Design:** Ensuring that websites look and function great on all devices.
 - **Performance Optimization:** Writing clean, efficient code to improve website speed and performance.
 - **User Experience:** Creating intuitive and engaging user interfaces that enhance the user experience.
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biodun42)](https://github.com/biodun42/github-readme-stats)
+
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biodun42&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🎨 My Philosophy
 
 I believe in the power of the web to connect people and share knowledge. Every project I work on is a chance to learn something new and to push the boundaries of what I can create. I'm always eager to take on new challenges and collaborate with others to build amazing things.
