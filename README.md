@@ -1,5 +1,8 @@
-# Muhammed Abiodun
-🌟 Hi there! I'm **Biodun**, a passionate frontend developer dedicated to creating beautiful and functional user interfaces. With a keen eye for design and a commitment to excellence, I strive to bring digital experiences to life through clean, efficient, and user-friendly code.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammed+Abiodun;" />
+</h1>
+
+I'm **Biodun**, a passionate frontend developer dedicated to creating beautiful and functional user interfaces. With a keen eye for design and a commitment to excellence, I strive to bring digital experiences to life through clean, efficient, and user-friendly code.
 
 ## 🌱 My Journey
 
