@@ -18,6 +18,10 @@ My journey in web development began with a fascination for how websites worked a
 
 I believe in the power of the web to connect people and share knowledge. Every project I work on is a chance to learn something new and to push the boundaries of what I can create. I'm always eager to take on new challenges and collaborate with others to build amazing things.
 
+## Stats
+
+![Alt](https://repobeats.axiom.co/api/embed/eb895c24742c60759c5464e29029153d240fc7f5.svg "Repobeats analytics image")
+
 ## 📬 Get in Touch
 
 Feel free to reach out if you want to discuss a project, share ideas, or just chat about frontend development. I'm always open to new opportunities and collaborations.
